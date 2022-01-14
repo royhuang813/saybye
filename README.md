@@ -8,5 +8,4 @@ npm i
 npm run start
 
 ## build
-npm run make
-after it, you can find a folder that named 'out'
+npm run make. after it, you can find a folder that named 'out'
